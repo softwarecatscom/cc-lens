@@ -1,0 +1,1 @@
+- [Steering bootstrap](project_bootstrap.md) — first bootstrap run April 2026; no settings templates existed; 3 core files generated
